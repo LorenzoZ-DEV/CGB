@@ -1,0 +1,4 @@
+name: CGB
+version: '${version}'
+main: xyz.lorenzzzz.cgb.CGB
+api-version: '1.21'
